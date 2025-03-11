@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋:
+🚀 About Me:
+I'm Prayukth Shetty, a passionate programmer and aspiring AI developer. I specialize in AI, automation, cybersecurity, and ethical hacking. Currently exploring ML, IoT, and robotics to build an all-rounder AI system.
 
-<!--
-**epicdventurer900/epicdventurer900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Interests:
 
-Here are some ideas to get you started:
+AI & Machine Learning (TensorFlow, PyTorch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ethical Hacking & Cybersecurity
+
+Automation & IoT Integration
+
+Cloud & Edge Computing
+
+Linux & Terminal Scripting
+
+
+📌 Current Focus:
+Preparing for MET while working on advanced AI and cybersecurity projects.
+
+📫 Connect with Me:
+Feel free to collaborate on AI, automation, and security-related projects!
