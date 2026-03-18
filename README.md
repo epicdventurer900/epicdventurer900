@@ -1,27 +1,25 @@
-## Hi there 👋:
-🚀 About Me:
-I'm Prayukth Shetty, a passionate programmer and aspiring AI developer. I specialize in AI, automation, cybersecurity, and ethical hacking. Currently exploring ML, IoT, and robotics to build an all-rounder AI system.
+## Hi there 👋
 
-🔧 Skills & Interests:
+🚀 **About Me**
+I'm Prayukth Shetty, a student and aspiring developer focused on Artificial Intelligence and Cybersecurity. I enjoy building projects, exploring how systems work, and continuously improving my technical skills.
 
-AI & Machine Learning (TensorFlow, PyTorch)
+🔧 **Skills & Interests**
 
-Ethical Hacking & Cybersecurity
+* Python & Problem Solving
+* AI & Machine Learning (learning and building)
+* Cybersecurity & Ethical Hacking
+* Linux & Terminal Usage
+* Automation & Scripting
 
-Automation & IoT Integration
+📌 **Current Focus**
 
-Cloud & Edge Computing
+* Strengthening AI and machine learning concepts
+* Learning practical cybersecurity tools and techniques
+* Building real-world projects to improve hands-on skills
 
-Linux & Terminal Scripting
+📫 **Let's Connect**
+Open to collaboration on AI and cybersecurity projects 🚀
 
-
-📌 Current Focus:
-Preparing for MET while working on advanced AI and cybersecurity projects.
-
-📫 Connect with Me:
-Feel free to collaborate on AI, automation, and security-related projects!
-
-# 💫 About Me:
 
 
 
