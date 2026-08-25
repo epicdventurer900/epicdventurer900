@@ -6,7 +6,6 @@ I'm Prayukth Shetty, a student and aspiring developer focused on Artificial Inte
 🔧 **Skills & Interests**
 
 * Python & Problem Solving
-* AI & Machine Learning (learning and building)
 * Cybersecurity & Ethical Hacking
 * Linux & Terminal Usage
 * Automation & Scripting
