@@ -85,6 +85,18 @@ Cloud & DevOps            ██████████░░░░░░░░
   <img src="https://streak-stats.demolab.com?user=epicdventurer900&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </div>
 
+## GitHub achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=epicdventurer900&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies">
+</div>
+
+<div align="center">
+  <a href="https://github.com/epicdventurer900?achievement=yolo">
+    <img src="https://img.shields.io/badge/YOLO-Achievement-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="YOLO GitHub achievement">
+  </a>
+</div>
+
 ## Let's connect
 
 I'm always happy to discuss AI, cybersecurity, software projects, and new ideas.
