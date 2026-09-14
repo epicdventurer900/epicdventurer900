@@ -1,122 +1,119 @@
+<!-- ===================== HERO ===================== -->
+<div align="center">
+<a href="https://github.com/epicdventurer900"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRAYUKTH%20SHETTY&fontAlign=50&fontAlignY=40&fontSize=46&desc=AI%20%7C%20CYBERSECURITY%20%7C%20FULL-STACK&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="Animated profile banner" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+real-world+software+%F0%9F%9A%80;Exploring+AI+%26+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Turning+ideas+into+working+projects+%E2%9A%A1;Learning.+Building.+Securing.+%F0%9F%94%A5" alt="Typing animation" /></a>
+
+<p><a href="https://github.com/epicdventurer900?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a> <a href="https://github.com/epicdventurer900?tab=followers"><img src="https://img.shields.io/github/followers/epicdventurer900?style=for-the-badge&logo=github&label=Followers" alt="Followers"></a> <img src="https://komarev.com/ghpvc/?username=epicdventurer900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"></p>
+</div>
+
+---
+
+## ⚡ About Me
+
+```text
+┌──────────────────────────────────────────────────────┐
+│  👨‍💻 Student Developer                              │
+│  🧠 AI & Machine Learning                            │
+│  🛡️ Cybersecurity & Ethical Hacking                 │
+│  🌐 Full-Stack Development                            │
+│  🚀 Building projects from idea → deployment         │
+└──────────────────────────────────────────────────────┘
+```
+
+- 🎓 Computer Science diploma student
+- 🛡️ Interested in **cybersecurity, secure systems and ethical hacking**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🌐 Learning **modern full-stack development**
+- 🔨 Building practical projects instead of only learning theory
+- 🚀 Currently developing **[AUCTO-BIDZONE](https://github.com/epicdventurer900/AUCTO-BIDZONE)**
+
+---
+
+## 🧬 Tech Stack
+
 <div align="center">
 
-# Hi, I'm Prayukth Shetty 👋
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css" alt="Languages" />
 
-### AI & Cybersecurity Student · Full-Stack Builder · Curious Problem Solver
+### Development • Database • Security
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,postgres,mongodb,git,github,linux,docker,vscode" alt="Development tools" />
+</div>
 
-<p>
-  I build practical software, explore intelligent systems, and learn how to make technology safer.
-</p>
+---
 
-<a href="https://github.com/epicdventurer900">
-  <img src="https://img.shields.io/github/followers/epicdventurer900?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers">
-</a>
-<a href="https://github.com/epicdventurer900?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore repositories">
-</a>
-<img src="https://komarev.com/ghpvc/?username=epicdventurer900&style=for-the-badge&color=blueviolet" alt="Profile views">
+## 🚀 Featured Project — AUCTO-BIDZONE
+
+<div align="center"><a href="https://github.com/epicdventurer900/AUCTO-BIDZONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=epicdventurer900&repo=AUCTO-BIDZONE&theme=tokyonight&hide_border=true" alt="AUCTO-BIDZONE repository card" /></a></div>
+
+> ⚡ A full-stack real-time auction platform designed around live bidding rooms.
+
+**Stack:** React • TypeScript • FastAPI • PostgreSQL • SQLAlchemy • JWT • WebSockets
+
+**Focus:** Authentication • Role-based access • Live bidding • Chat • Notifications • Audit logs • Auction reports
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<a href="https://github.com/epicdventurer900"><img height="180" src="https://github-readme-stats.vercel.app/api?username=epicdventurer900&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" /></a>
+<a href="https://github.com/epicdventurer900"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdventurer900&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" /></a>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=epicdventurer900&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=epicdventurer900&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" /></div>
+
+---
+
+## 🧠 Current Learning Matrix
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🤖 AI / ML | ███████████████░░░░░ 75% |
+| 🛡️ Cybersecurity | █████████████░░░░░░░ 65% |
+| 🌐 Full-Stack | ███████████████░░░░░ 75% |
+| ☁️ Cloud / DevOps | ██████████░░░░░░░░░░ 50% |
 
 </div>
 
 ---
 
-## About me
+## 🔥 Contribution Activity
 
-- 🎓 Student focused on **Artificial Intelligence and Cybersecurity**
-- 🧠 Learning by building real-world projects from idea to deployment
-- 🛡️ Interested in ethical hacking, secure systems, and automation
-- 🚀 Currently developing **[AUCTO-BIDZONE](https://github.com/epicdventurer900/AUCTO-BIDZONE)**, a real-time auction platform
-- 🤝 Open to collaboration, internships, and meaningful open-source projects
+<div align="center"><a href="https://github.com/epicdventurer900"><img src="https://github-readme-activity-graph.vercel.app/graph?username=epicdventurer900&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" /></a></div>
 
-## Featured project
+---
 
-### [AUCTO-BIDZONE](https://github.com/epicdventurer900/AUCTO-BIDZONE)
-
-> A full-stack, real-time auction platform for live bidding rooms.
-
-Built with **React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, JWT, and WebSockets**. It includes authenticated users, role-based auction rooms, live bidding, chat, notifications, audit logs, and auction reports.
-
-<div>
-  <a href="https://github.com/epicdventurer900/AUCTO-BIDZONE">
-    <img src="https://img.shields.io/github/stars/epicdventurer900/AUCTO-BIDZONE?style=flat-square&logo=github&color=yellow" alt="AUCTO-BIDZONE stars">
-  </a>
-  <a href="https://github.com/epicdventurer900/AUCTO-BIDZONE">
-    <img src="https://img.shields.io/badge/Status-MVP%20in%20development-2ea44f?style=flat-square" alt="Project status">
-  </a>
-</div>
-
-## Tech I use
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks, data & tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-## Currently learning
+## 🎯 What I'm Building Toward
 
 ```text
-AI & Machine Learning     ███████████████░░░░░  75%
-Cybersecurity             █████████████░░░░░░░  65%
-Full-Stack Development    ███████████████░░░░░  75%
-Cloud & DevOps            ██████████░░░░░░░░░░  50%
+CODE  ────────────────►  BUILD  ────────────────►  SECURE
+  │                         │                         │
+  └── Python / C / JS       └── Full-Stack Apps      └── Cybersecurity
+                              │                         │
+                              └────────► AI / ML ◄─────┘
 ```
 
-## GitHub activity
+I want to become a developer who can **build complete systems, understand how they work, and make them safer.**
+
+---
+
+## 🤝 Connect
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=epicdventurer900&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Prayukth's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdventurer900&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+<a href="https://github.com/epicdventurer900"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/epicdventurer900?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<br><br>
+### `> Keep building. Keep learning. Keep securing. 🚀`
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=epicdventurer900&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-</div>
-
-## GitHub achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=epicdventurer900&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies">
-</div>
-
-<div align="center">
-  <a href="https://github.com/epicdventurer900?achievement=yolo">
-    <img src="https://img.shields.io/badge/YOLO-Achievement-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="YOLO GitHub achievement">
-  </a>
-</div>
-
-## Let's connect
-
-I'm always happy to discuss AI, cybersecurity, software projects, and new ideas.
-
-<div align="center">
-  <a href="https://github.com/epicdventurer900">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://github.com/epicdventurer900?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/epicdventurer900?style=for-the-badge&logo=github&label=Public%20Repos&color=2ea44f" alt="Public repositories">
-  </a>
-  <a href="https://github.com/epicdventurer900?tab=followers">
-    <img src="https://img.shields.io/github/followers/epicdventurer900?style=for-the-badge&logo=github&label=Followers&color=0969da" alt="Followers">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-</div>
+<a href="https://github.com/epicdventurer900"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer" /></a>
