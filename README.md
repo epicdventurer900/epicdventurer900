@@ -1,80 +1,89 @@
-<!-- ===================== PRAYUKTH SHETTY | DEVELOPER PROFILE ===================== -->
 <div align="center">
 
 <a href="https://github.com/epicdventurer900">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=PRAYUKTH%20SHETTY&fontAlign=50&fontAlignY=38&fontSize=48&desc=PYTHON%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20CYBERSECURITY&descAlign=50&descAlignY=60&animation=twinkling" width="100%" alt="Animated developer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRAYUKTH%20SHETTY&fontAlign=50&fontAlignY=38&fontSize=48&desc=PYTHON%20%7C%20FULL-STACK%20%7C%20CYBERSECURITY&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Animated cyber developer banner" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&center=true&vCenter=true&width=820&lines=%3E_+Python+Developer+%F0%9F%90%8D;%3E_+Full-Stack+Developer+%F0%9F%92%BB;%3E_+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;%3E_+Building+Modern+Web+Applications+%E2%9A%A1;%3E_+Code.+Build.+Secure.+Deploy.+%F0%9F%94%A5" alt="Developer typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&center=true&vCenter=true&width=900&height=60&lines=%3E_%20SYSTEM%20ONLINE;%3E_%20PYTHON%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20DEVELOPER;%3E_%20CYBERSECURITY%20%E2%80%A2%20SECURE%20ENGINEERING;%3E_%20BUILDING%20MODERN%20WEB%20APPLICATIONS;%3E_%20CODE%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20SECURE%20%E2%86%92%20DEPLOY" alt="Animated terminal typing" />
 
 <br>
 
-<a href="https://github.com/epicdventurer900?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://github.com/epicdventurer900?tab=followers"><img src="https://img.shields.io/github/followers/epicdventurer900?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Online status" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%7C%20CYBERSECURITY-111827?style=for-the-badge&logo=probot&logoColor=white" alt="Focus" />
 <img src="https://komarev.com/ghpvc/?username=epicdventurer900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `root@prayukth:~$ ./profile.sh`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  PRAYUKTH SHETTY                                             │
+│  █ SYSTEM BOOT                                               │
 │                                                              │
-│  PYTHON DEVELOPER                                            │
-│  FULL-STACK DEVELOPER                                       │
-│  CYBERSECURITY                                               │
-│  COMPUTER SCIENCE                                            │
+│  [✓] CORE SYSTEM ................. ONLINE                    │
+│  [✓] PYTHON ...................... ACTIVE                    │
+│  [✓] FULL-STACK .................. BUILDING                  │
+│  [✓] CYBERSECURITY ............... DEVELOPING                │
+│  [✓] DATABASES ................... CONNECTED                 │
+│  [✓] GIT / GITHUB ................ ACTIVE                    │
 │                                                              │
-│  STATUS: BUILDING • LEARNING • SHIPPING                      │
+│  > ACCESS: DEVELOPER PROFILE                                 │
+│  > STATUS: BUILDING • LEARNING • SHIPPING                    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 I build software with a strong focus on **Python, full-stack development and cybersecurity**.
 
-My development journey spans **backend systems, modern web interfaces, databases and secure application design**, with a focus on turning concepts into practical, working software.
+My work combines **backend systems, modern web interfaces, databases and secure application design** to turn ideas into practical software.
 
-Currently expanding my skills across **Python, JavaScript, TypeScript, Java, C and modern web technologies**.
+```text
+$ whoami
+prayukth-shetty
 
-> **Build it. Understand it. Improve it. Secure it.**
+$ mission
+BUILD • TEST • SECURE • DEPLOY
+
+$ mode
+ALWAYS_LEARNING ████████████████████
+```
 
 ---
 
-## `> tech_stack --list`
+## `> tech_stack --scan`
 
 <div align="center">
 
-### Languages
+### `LANGUAGES`
 <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,c" alt="Python HTML CSS JavaScript TypeScript Java C" />
 
-### Full-Stack & Backend
+### `FULL-STACK / BACKEND`
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postgres,mongodb" alt="React Node.js FastAPI PostgreSQL MongoDB" />
 
-### Tools & Environment
+### `TOOLS / ENVIRONMENT`
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="Git GitHub Linux Docker VS Code" />
 
 </div>
 
 ---
 
-## `> current_focus`
+## `> current_mission`
 
 ```text
-PYTHON              █████████████████░░░  DEVELOPMENT
-FULL-STACK          ████████████████░░░░  BUILDING
-CYBERSECURITY       ██████████████░░░░░░  DEVELOPING
-JAVASCRIPT / TS     ██████████████░░░░░░  EXPANDING
-JAVA / C            ███████████░░░░░░░░░  EXPANDING
-LINUX / NETWORKING  ████████████░░░░░░░░  LEARNING
+[██████████████████░░] PYTHON              DEVELOPMENT
+[████████████████░░░░] FULL-STACK          BUILDING
+[██████████████░░░░░░] CYBERSECURITY       DEVELOPING
+[██████████████░░░░░░] JAVASCRIPT / TS     EXPANDING
+[████████████░░░░░░░░] JAVA / C            EXPANDING
+[████████████░░░░░░░░] LINUX / NETWORKING  LEARNING
 ```
 
-I am focused on becoming a versatile developer who can **design, build, test, deploy and secure complete applications**.
+> **Build it. Understand it. Improve it. Secure it.**
 
 ---
 
-## `> featured_project`
+## `> featured_project --open`
 
 <div align="center">
 <a href="https://github.com/epicdventurer900/AUCTO-BIDZONE">
@@ -84,95 +93,80 @@ I am focused on becoming a versatile developer who can **design, build, test, de
 
 ### ⚡ AUCTO-BIDZONE
 
-A full-stack auction platform designed around **real-time bidding, authentication, role-based workflows and modern web application architecture**.
+A full-stack auction platform built around **authentication, role-based workflows, real-time bidding and modern web application architecture**.
 
 **Stack:** React • TypeScript • FastAPI • PostgreSQL • SQLAlchemy • JWT • WebSockets
 
-**Core areas:** Authentication • User Roles • Live Bidding • Chat • Notifications • Auction Management
+**Core:** Authentication • User Roles • Live Bidding • Chat • Notifications • Auction Management
 
 ---
 
-## `> development_philosophy`
+## `> system_pipeline`
 
 ```text
-        ┌───────────────┐
-        │     IDEA      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     CODE      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     TEST      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    SECURE     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    DEPLOY     │
-        └───────────────┘
+┌────────┐     ┌────────┐     ┌────────┐
+│  IDEA  │ ──▶ │  CODE  │ ──▶ │  BUILD │
+└────────┘     └────────┘     └───┬────┘
+                                  │
+                                  ▼
+                            ┌──────────┐
+                            │   TEST   │
+                            └────┬─────┘
+                                 │
+                                 ▼
+                            ┌──────────┐
+                            │  SECURE  │
+                            └────┬─────┘
+                                 │
+                                 ▼
+                            ┌──────────┐
+                            │  DEPLOY  │
+                            └──────────┘
 ```
 
-I value **clean implementation, continuous learning, practical projects and secure engineering**. The goal is not simply to write code, but to understand how the complete system works.
+I focus on **clean implementation, practical projects, continuous learning and secure engineering**.
 
 ---
 
-## `> github --stats`
+## `> github --telemetry`
 
 <div align="center">
 
-<a href="https://github.com/epicdventurer900">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=epicdventurer900&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/epicdventurer900">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdventurer900&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</a>
+<a href="https://github.com/epicdventurer900"><img height="180" src="https://github-readme-stats.vercel.app/api?username=epicdventurer900&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" /></a>
+<a href="https://github.com/epicdventurer900"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdventurer900&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" /></a>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=epicdventurer900&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 
-</div>
-
----
-
-## `> activity_monitor`
-
-<div align="center">
-<a href="https://github.com/epicdventurer900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=epicdventurer900&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
-</a>
-</div>
-
----
-
-## `> connect`
-
-<div align="center">
-
-<a href="https://github.com/epicdventurer900"><img src="https://img.shields.io/badge/GitHub-epicdventurer900-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://github.com/epicdventurer900?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github" alt="Repositories" /></a>
-
 <br><br>
 
+<a href="https://github.com/epicdventurer900"><img src="https://github-readme-activity-graph.vercel.app/graph?username=epicdventurer900&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" /></a>
+
+</div>
+
+---
+
+## `> terminal --exit`
+
 ```text
-> INITIALIZING...
-> DEVELOPER PROFILE ONLINE
-> BUILDING FULL-STACK SYSTEMS
-> DEVELOPING CYBERSECURITY SKILLS
+> CONNECTING TO DEVELOPER NODE...
+> AUTHENTICATED ✓
+> PYTHON MODULE ........ LOADED
+> FULL-STACK MODULE .... LOADED
+> SECURITY MODULE ...... ACTIVE
+> PROJECT PIPELINE ..... RUNNING
+>
 > KEEP BUILDING. KEEP LEARNING. █
 ```
 
-<a href="https://github.com/epicdventurer900">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling" width="100%" alt="Animated profile footer" />
-</a>
+<div align="center">
+<a href="https://github.com/epicdventurer900"><img src="https://img.shields.io/badge/GitHub-epicdventurer900-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/epicdventurer900?tab=repositories"><img src="https://img.shields.io/badge/Repositories-EXPLORE-111827?style=for-the-badge&logo=github" alt="Repositories" /></a>
+</div>
 
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling" width="100%" alt="Animated cyber footer" />
 </div>
