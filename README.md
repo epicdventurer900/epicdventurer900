@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/epicdventurer900">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRAYUKTH%20SHETTY&fontAlign=50&fontAlignY=38&fontSize=48&desc=PYTHON%20%7C%20FULL-STACK%20%7C%20CYBERSECURITY&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Animated cyber developer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRAYUKTH%20SHETTY&fontAlign=50&fontAlignY=50&fontSize=48&fontColor=00ff41&color=0:000000,100:003b1f&animation=twinkling" width="100%" alt="Animated cyber developer banner" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&center=true&vCenter=true&width=900&height=60&lines=%3E_%20SYSTEM%20ONLINE;%3E_%20PYTHON%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20DEVELOPER;%3E_%20CYBERSECURITY%20%E2%80%A2%20SECURE%20ENGINEERING;%3E_%20BUILDING%20MODERN%20WEB%20APPLICATIONS;%3E_%20CODE%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20SECURE%20%E2%86%92%20DEPLOY" alt="Animated terminal typing" />
